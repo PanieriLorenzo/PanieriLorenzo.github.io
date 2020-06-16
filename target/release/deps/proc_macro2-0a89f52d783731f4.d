@@ -1,0 +1,11 @@
+C:\Users\Lorenzo\Documents\Code\Git Projects\PanieriLorenzo.github.io\target\release\deps\proc_macro2-0a89f52d783731f4.rmeta: C:\Users\Lorenzo\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\lib.rs C:\Users\Lorenzo\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\parse.rs C:\Users\Lorenzo\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\detection.rs C:\Users\Lorenzo\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\fallback.rs C:\Users\Lorenzo\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\wrapper.rs
+
+C:\Users\Lorenzo\Documents\Code\Git Projects\PanieriLorenzo.github.io\target\release\deps\libproc_macro2-0a89f52d783731f4.rlib: C:\Users\Lorenzo\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\lib.rs C:\Users\Lorenzo\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\parse.rs C:\Users\Lorenzo\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\detection.rs C:\Users\Lorenzo\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\fallback.rs C:\Users\Lorenzo\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\wrapper.rs
+
+C:\Users\Lorenzo\Documents\Code\Git Projects\PanieriLorenzo.github.io\target\release\deps\proc_macro2-0a89f52d783731f4.d: C:\Users\Lorenzo\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\lib.rs C:\Users\Lorenzo\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\parse.rs C:\Users\Lorenzo\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\detection.rs C:\Users\Lorenzo\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\fallback.rs C:\Users\Lorenzo\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\wrapper.rs
+
+C:\Users\Lorenzo\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\lib.rs:
+C:\Users\Lorenzo\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\parse.rs:
+C:\Users\Lorenzo\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\detection.rs:
+C:\Users\Lorenzo\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\fallback.rs:
+C:\Users\Lorenzo\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\wrapper.rs:

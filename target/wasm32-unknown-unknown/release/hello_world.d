@@ -1,0 +1,1 @@
+C:\Users\Lorenzo\Documents\Code\Git\ Projects\PanieriLorenzo.github.io\target\wasm32-unknown-unknown\release\hello_world.wasm: C:\Users\Lorenzo\Documents\Code\Git\ Projects\PanieriLorenzo.github.io\src\lib.rs build.rs
